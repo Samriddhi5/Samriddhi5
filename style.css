@@ -42,3 +42,9 @@ button {
 button:hover {
     background-color: #005f73;
 }
+@media (max-width: 600px) {
+    nav ul {
+        display: block;
+        text-align: center;
+    }
+}
