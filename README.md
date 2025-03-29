@@ -1,1 +1,2 @@
-# Samriddhi5.github.io
+Hello, This is Samriddhi.
+Welcome to my GitHub!!
