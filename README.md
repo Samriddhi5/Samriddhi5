@@ -1,2 +1,1 @@
-Hello, this is Samriddhi.
-Welcome to my GitHub!!
+Hello, welcome to my GitHub!!
