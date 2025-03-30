@@ -1,18 +1,10 @@
-function showMessage() {
-    alert("Hello! Welcome to my website.");
+// Toggle Mobile Navigation
+function toggleMenu() {
+    let nav = document.getElementById("nav-links");
+    nav.classList.toggle("nav-active");
 }
-document.addEventListener("DOMContentLoaded", function () {
-    const elements = document.querySelectorAll(".fade-in");
 
-    const observer = new IntersectionObserver(entries => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add("visible");
-            }
-        });
-    });
-
-    elements.forEach(element => {
-        observer.observe(element);
-    });
-});
+// Button Click Message
+function showMessage() {
+    alert("Hello! Thanks for visiting.");
+}
