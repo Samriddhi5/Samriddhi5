@@ -36,10 +36,10 @@ My journey in computer science sparked a passion for cybersecurity. My experienc
     </a>
 </div>
 
-## Projects
-• Penetration Testing: Brute Force Attack and Privilege Escalation
-• Network Security and Intrusion Detection
-• Compliance Challenges with Al-based Code Generation Tools
-• Secure Group File Sharing Cryptosystem
-• Admino Script Automation
+## Academic Projects
+• Penetration Testing: Brute Force Attack and Privilege Escalation <br>
+• Network Security and Intrusion Detection <br>
+• Compliance Challenges with Al-based Code Generation Tools <br>
+• Secure Group File Sharing Cryptosystem <br>
+• Admino Script Automation <br>
 • Network Analysis of Critical Infrastructure
