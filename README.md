@@ -12,8 +12,8 @@ My journey in computer science sparked a passion for cybersecurity. My experienc
 
 ### Security & Network
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-5A5A5A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firewalls(WAF)-FF4500?&style=for-the-badge&logo=firewall&logoColor=white" />
