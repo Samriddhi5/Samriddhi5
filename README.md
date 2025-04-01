@@ -18,23 +18,13 @@ My journey in computer science sparked a passion for cybersecurity. My experienc
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Tools & Technologies
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
@@ -46,15 +36,9 @@ My journey in computer science sparked a passion for cybersecurity. My experienc
 </div>
 
 ## Projects
-Penetration Testing: Brute Force Attack and Privilege Escalation
-• Performed brute-force attacks using Hydra, analyzed image metadata with ExifTool, exploited SMB vulnerabilities using Metasploit, and escalated privileges by cracking SSH credentials.
-Network Security and Intrusion Detection
-•Configured an IPFire firewall, deployed Snort for network intrusion detection, and conducted TCP SYN flood attacks using hping3.
-Compliance Challenges with Al-based Code Generation Tools
-•Analyzed compliance risks, vendor due diligence, and emerging AI regulations for responsible AI code tool implementation.
-Secure Group File Sharing Cryptosystem
-•Developed a secure file-sharing system using ECC, OpenSSL, and Bash scripting, ensuring confidentiality and integrity.
-Admino Script Automation
-•Built an automation tool to streamline admin tasks using Python and Bash, integrating parallel processing and real-time monitoring.
-Network Analysis of Critical Infrastructure
-•Conducted risk analysis on AWS data centers, applying Fault Tree Analysis (FTA) to assess resilience and optimize security.
+• Penetration Testing: Brute Force Attack and Privilege Escalation
+• Network Security and Intrusion Detection
+• Compliance Challenges with Al-based Code Generation Tools
+• Secure Group File Sharing Cryptosystem
+• Admino Script Automation
+• Network Analysis of Critical Infrastructure
