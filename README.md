@@ -1,5 +1,6 @@
 # Hello, welcome to my Github!
 <a href="https://www.linkedin.com/in/samriddhi5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/Sam5"><img src="https://img.shields.io/badge/-TryHackMe-2DCB5D?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 I am a graduate student with a profound interest in cybersecurity and a dedication to delving deeper into the workings of various secure platforms and software that ensure maximum protection against cybersecurity attacks.
 
