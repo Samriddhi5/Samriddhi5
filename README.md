@@ -51,9 +51,12 @@ My journey in computer science sparked a passion for cybersecurity. My experienc
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank">
+<a href="https://www.credly.com/badges/5822afc5-7679-40e5-8310-1a577cc1c632/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
     </a>
+<a href="https://www.credly.com/badges/7a1ae9af-8522-484d-8f0b-4f3614e20cdd/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA3C53?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 </div>
 
 ## Academic Projects
