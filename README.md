@@ -11,11 +11,11 @@ MS in Cybersecurity, Northeastern University.
 
 ## What I work on
 
-- **IAM** — SailPoint IIQ, Saviynt, RBAC, JML workflows, SoD policy enforcement  
-- **Security Operations** — Splunk SIEM, incident response, threat hunting, log correlation  
-- **Cloud Security** — AWS (IAM, EC2, S3, Lambda, CloudTrail, GuardDuty), Docker, Kubernetes  
-- **Automation** — Python and Bash for IR workflows, access reviews, compliance reporting  
-- **Frameworks** — NIST 800-53, ISO 27001, MITRE ATT&CK, Zero Trust, OWASP Top 10, HIPAA, SOX  
+- **IAM** - SailPoint IIQ, Saviynt, RBAC, JML workflows, SoD policy enforcement  
+- **Security Operations** - Splunk SIEM, incident response, threat hunting, log correlation  
+- **Cloud Security** - AWS (IAM, EC2, S3, Lambda, CloudTrail, GuardDuty), Docker, Kubernetes  
+- **Automation** - Python and Bash for IR workflows, access reviews, compliance reporting  
+- **Frameworks** - NIST 800-53, ISO 27001, MITRE ATT&CK, Zero Trust, OWASP Top 10, HIPAA, SOX  
 
 ---
 
@@ -35,7 +35,7 @@ MS in Cybersecurity, Northeastern University.
 - AWS Certified Cloud Practitioner  
 - CompTIA Security+  
 - Google Cybersecurity Professional Certificate  
-- TryHackMe — Top 3% globally · [tryhackme.com/p/Sam5](https://tryhackme.com/p/Sam5)  
+- TryHackMe: Top 3% globally · [tryhackme.com/p/Sam5](https://tryhackme.com/p/Sam5)  
 
 ---
 
