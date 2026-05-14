@@ -27,7 +27,7 @@ MS in Cybersecurity, Northeastern University.
 | [Incident Response Playbooks](https://github.com/Samriddhi5/incident-response-playbooks) | IR playbooks and templates for real-world security scenarios |
 | [Alerting Pipeline](https://github.com/Samriddhi5/alerting-pipeline) | Python automation integrating Splunk SIEM with ServiceNow/Jira for alert triage |
 | [Penetration Testing Lab](https://github.com/Samriddhi5/pentest-lab) | SMB/SSH exploitation, privilege escalation, brute-force, and metadata analysis write-ups |
-
+| [AWS Infrastructure Risk Analysis](https://medium.com/@samriddhi5/when-the-cloud-falls-a-network-risk-analysis-of-aws-us-data-centers-8eff7e0cd0d3) | Network topology modeling of 14 AWS data centers using MBRA, spectral radius analysis, and cascading failure thresholds |
 ---
 
 ## Certifications
