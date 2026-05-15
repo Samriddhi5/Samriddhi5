@@ -27,8 +27,14 @@ MS in Cybersecurity, Northeastern University.
 | [Incident Response Playbooks](https://github.com/Samriddhi5/incident-response-playbooks) | IR playbooks and templates for real-world security scenarios |
 | [Alerting Pipeline](https://github.com/Samriddhi5/alerting-pipeline) | Python automation integrating Splunk SIEM with ServiceNow/Jira for alert triage |
 | [Penetration Testing Lab](https://github.com/Samriddhi5/pentest-lab) | SMB/SSH exploitation, privilege escalation, brute-force, and metadata analysis write-ups |
-| [AWS Infrastructure Risk Analysis](https://medium.com/@samriddhi5/when-the-cloud-falls-a-network-risk-analysis-of-aws-us-data-centers-8eff7e0cd0d3) | Network topology modeling of 14 AWS data centers using MBRA, spectral radius analysis, and cascading failure thresholds |
----
+
+## Writing
+
+| Article | Topic |
+|---|---|
+| [Securing AI in the Cloud: Inside KAICSF](https://medium.com/@samriddhi5/securing-ai-in-the-cloud-236348de1b7c) | AI governance framework - NIST AI RMF, OWASP LLM Top 10, HIPAA healthcare use case |
+| [When the Cloud Falls](https://medium.com/@samriddhi5/when-the-cloud-falls-a-network-risk-analysis-of-aws-us-data-centers-8eff7e0cd0d3) | Network risk analysis of AWS US data centers - spectral radius, cascading failure thresholds |
+| [The Compliance Trap](https://medium.com/@samriddhi5/the-compliance-trap-what-companies-miss-when-using-ai-code-generation-tools-34ac10889af2) | AI code generation compliance risks - IP ownership, vendor due diligence, regulatory landscape |
 
 ## Certifications
 
